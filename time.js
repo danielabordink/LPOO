@@ -1,1 +1,3 @@
-exports 
+exports.myDate = function() {
+    return Date ();
+}
